@@ -1,0 +1,10 @@
+Air Passenger Forecasting
+
+Aim :
+To predict / forecast the number of passengers travelling using aeroplanes based on time series data.
+It is a typical Time Series Analysis problem.
+The solution incorporate three forecasting models: Prophet, ARIMA, and LSTM
+
+Dataset Attributes
+Month : Month and Year values
+#Passengers : Number of passengers travelling using aeroplanes.
